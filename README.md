@@ -36,5 +36,6 @@
 ### Background Checking
 
 | Name | Junna O. Lumen |
+|----|-----|
 | Contact | 09172453763 |
 | Occupation | House Wife |
