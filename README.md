@@ -20,10 +20,10 @@
 
 **Address:** Blk 2 Lot 35, Lessandra subdivision, Brgy. Kaypian, CSJDM, Bulacan
 
-### Career Objectives: 
+## Career Objectives: 
 - To apply my strong foundation in computer engineering to contribute to the development of cutting-edge technologies and solutions. My objective is to work in a collaborative environment where I can enhance my skills in areas such as software development, hardware design, and systems engineering, while actively participating in projects that drive innovation and advance the field.
 
-### Educational Background:
+## Educational Background:
 
 - **Emmanuel Bible Baptist Church Elementary school**
 
@@ -33,14 +33,14 @@
 
 - **SJDM STI College**
 
-### Background Checking
+## Background Checking
 
 | Name | Robella C. Funchica |
 |-|-|
 | Contact | 09982395241 |
 | Occupation | House Wife |
 
-### Skills
+## Skills
 
 - Creativity
 
@@ -52,7 +52,7 @@
 
 - Responsibility
 
-### Achievements
+## Achievements
 
 - With Honors(Grade 12) STI College SJDM
 
