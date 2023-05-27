@@ -35,7 +35,27 @@
 
 ### Background Checking
 
-| Name | Junna O. Lumen |
-|----|-----|
-| Contact | 09172453763 |
+| Name | Robella C. Funchica |
+|-|-|
+| Contact | 09982395241 |
 | Occupation | House Wife |
+
+### Skills
+
+- Creativity
+
+- Flexibility
+
+- Adaptability
+
+- Problem Solving
+
+- Responsibility
+
+### Achievements
+
+- With Honors(Grade 12) STI College SJDM
+
+- President Lister(1st and 2nd year college)
+
+- Oracle Course Completion Java Foundations
